@@ -1,0 +1,5 @@
+#Ignore todas las extenciones distintas de .cu y .h
+*.*
+!.gitignore
+!*.cu
+!*.h
