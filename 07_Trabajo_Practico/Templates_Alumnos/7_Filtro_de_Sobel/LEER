@@ -1,0 +1,3 @@
+compilar: nvcc imagen.cu sobel.cu -o sobel
+
+para graficar usar gnuplot "graficar"
