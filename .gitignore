@@ -3,4 +3,6 @@
 !.gitignore
 !*.cu
 !*.h
-
+!*.c
+!*.cpp
+!Makefile
